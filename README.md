@@ -1,3 +1,8 @@
+
+
+![Mockup 1](https://github.com/RSmerdon1/CFR-Chat-Assistant/assets/100503276/9d89a7dc-86fb-4194-9784-d63a3834d695)
+
+
 # CFR-Chat-Assistant
 
 CFR Chat Assistant: Navigating Title 21 with Ease
