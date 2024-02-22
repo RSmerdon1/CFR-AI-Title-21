@@ -16,7 +16,7 @@ Example Questions: Explore a curated list of example questions to gain insights 
 Interactive Chat: Engage with our intelligent chatbot for a seamless and user-friendly experience.
 Copy & Paste: Easily copy responses for your records and paste new questions for quick inquiries.
 
-How to Use CFR Chat Assistant:
+How to Use CFR AI - Title 21:
 
 Launch the App: Open CFR AI - Title 21 on your device.
 Ask a Question: Type your question about Title 21 CFR in the chat interface.
