@@ -3,11 +3,11 @@
 ![Mockup 1](https://github.com/RSmerdon1/CFR-Chat-Assistant/assets/100503276/9d89a7dc-86fb-4194-9784-d63a3834d695)
 
 
-# CFR-Chat-Assistant
+# CFR AI - Title 21
 
-CFR Chat Assistant: Navigating Title 21 with Ease
+CFR AI - Title 21: Navigating Title 21 with Ease
 
-Welcome to CFR Chat Assistant, your dedicated companion for exploring and understanding Title 21 of the Code of Federal Regulations (CFR). This app is designed to provide professionals in the clinical research and regulatory fields with instant access to accurate and up-to-date information regarding FDA regulations and compliance requirements.
+Welcome to CFR AI Title 21, your dedicated companion for exploring and understanding Title 21 of the Code of Federal Regulations (CFR). This app is designed to provide professionals in the clinical research and regulatory fields with instant access to accurate and up-to-date information regarding FDA regulations and compliance requirements.
 
 Key Features:
 
@@ -18,8 +18,8 @@ Copy & Paste: Easily copy responses for your records and paste new questions for
 
 How to Use CFR Chat Assistant:
 
-Launch the App: Open CFR Chat Assistant on your device.
+Launch the App: Open CFR AI - Title 21 on your device.
 Ask a Question: Type your question about Title 21 CFR in the chat interface.
 Receive an Answer: The AI chatbot will analyze your query and provide a concise and informative response.
 Explore More: Use the example questions for guidance or inspiration on what to ask next.
-Whether you're a seasoned expert or new to the field of regulatory compliance, CFR Chat Assistant is your go-to resource for navigating the complexities of Title 21 CFR.
+Whether you're a seasoned expert or new to the field of regulatory compliance, CFR AI - Title 21 is your go-to resource for navigating the complexities of Title 21 CFR.
